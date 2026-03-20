@@ -1,16 +1,17 @@
 #### Submitted
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>徐凯基</strong>,谷晓坤,何超.2026.国土空间治理何以影响大都市郊区乡村绅士化：理论分析与实证解析.<strong>中国土地科学</strong>.[[Paper]](https://doi.org/10.11994/zgtdkx.20260104.091428)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- 金晓斌;金雨洁;<strong>徐凯基</strong>;王捷.2025.“教赛互促”推动自然资源教学能力提升的路径与模式分析——基于全国大学生自然资源科技作品大赛视角.<strong>自然资源学报</strong>.[[Paper]](https://doi.org/10.31497/zrzyxb.2025080)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Jiang, Y., Shan, X., Liu, Q., Feng, Y., Lai, Y., <strong>Xu, K.</strong>,Wang, J., Bai, Z., Feng, X. 2025. Evaluating the effectiveness of the Shan-Shui Initiatives in China.<strong>Geography and Sustainability</strong>.[[Paper]](https://doi.org/10.1016/j.geosus.2025.100271)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- <strong>Xu, K.</strong>, Chen, J., Feng, Y., Wang, J., Bai, Z. 2023. How are nature-based solutions contributing to the improvement of ecosystem quality in China: A systematic review. <strong>Ecological Indicators</strong>.[[Paper]](https://doi.org/10.1016/j.ecolind.2023.110985)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Zhou, Y., <strong>Xu, K.</strong>, Feng, Z., Wu, K. 2023. Quantification and driving mechanism of cultivated land fragmentation under scale differences. <strong>Ecological Informatics</strong>.[[Paper]](https://doi.org/10.1016/j.ecoinf.2023.102336)
 
+- Liu, C., Xu, R., <strong>Xu, K.</strong>, Lin, Y., Cao, Y. 2023. Carbon Emission Effects of Land Use in Chaobai River Region of Beijing–Tianjin–Hebei, China. <strong>Land</strong>.[[Paper]](https://doi.org/10.3390/land12061168)
+
+- Zhou, Y., Feng, Z., <strong>Xu, K.</strong>, Wu, K., Gao, H., Liu, P. 2023. Ecosystem Service Flow Perspective of Urban Green Land: Spatial Simulation and Driving Factors of Cooling Service Flow. <strong>Land</strong>.[[Paper]](https://doi.org/10.3390/land12081527)
