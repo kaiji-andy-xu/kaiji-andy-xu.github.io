@@ -3,12 +3,12 @@ He is currently a postgraduate in the School of Geography and Ocean Science at N
 
 #### Contact
 
-Email: andykjxu[at]163.com
+Email: andykjxu@163.com
 
 #### Education
 
 B.E., Land Consolidation Engineering, China University of Geosciences(Beijing), 2020—2024.
 
 #### Research Interests
-Rural Gentrification, Spatial Governance
+Rural Gentrification, Spatial Governance, Urban rural interaction
 
