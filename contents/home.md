@@ -10,7 +10,7 @@ Email: andykjxu[at]163.com
 
 #### Education
 
-B.E., Data Science and Big Data Technology, China University of Geosciences(Beijing), 2020—2024.
+B.E., Land Consolidation Engineering, China University of Geosciences(Beijing), 2020—2024.
 
 #### Research Interests
 Rural Gentrification, Spatial Governance
